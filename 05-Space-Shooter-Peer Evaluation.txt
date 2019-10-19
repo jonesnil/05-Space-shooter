@@ -1,0 +1,45 @@
+Name: Mac McKay
+Date: 10/19/19
+Project: 05-Space-Shooter
+Peer's repository: https://github.com/jonesnil/05-Space-Shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+
+Response: That having good asset art can be a real benefit to how the game presents itself.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+Response: The nice art, smooth animations, and overall presentation.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+
+Response: None, its great the way its. Way better than mine too!
+ 
+
+What could have been clearer or better commented?
+
+Response: The update function could have used more comments, its just a big block of code.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+Response: None, I understood it perfectly.
+ 
+
+Does the repository contain an appropriate LICENSE?
+
+Response: Yes.
+
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+Response: Nope, it covers everything it needs to cover.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+Response: Your game looks nice, plays nice, and is overall very well made. 
